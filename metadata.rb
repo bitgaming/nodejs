@@ -8,7 +8,6 @@ version '1.3.0'
 
 conflicts 'node'
 
-depends 'yum-epel'
 depends 'build-essential'
 depends 'ark'
 depends 'apt'
